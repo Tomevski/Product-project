@@ -23,3 +23,7 @@ Download productproject.sql file and import it in the database.
 
 You should be able to start the application by executing com.example.productproject.ProductProjectApplication.javar, which starts a webserver on port 8080 (http://localhost:8080).
 ![Screenshot (56)](https://github.com/Tomevski/Product-project/assets/49244150/acf83bde-6bec-4520-b28d-5d8ea9cf577a)
+
+
+### Additionally here is the demo of the application
+https://www.youtube.com/watch?v=JsbScprXnzA
